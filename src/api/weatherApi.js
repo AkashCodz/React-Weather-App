@@ -9,7 +9,7 @@ export const weatherApi = createApi({
     getWeatherById: builder.query({
       // query: () => '/todos', (By default it takes GET Method)
       query: (id) => ({
-        url:`weather?q=${id}&appid=adc158589512d407fd331fce9d6a2cc8`,
+        url:`weather?q=${id}&appid=`,
         method:'GET'
       })
     }),
