@@ -38,7 +38,7 @@ Install my-project with npm
 ```http
   REACT_APP_WEATHER_API_KEY=YOUR_API_KEY
 ```
-
+![image](https://github.com/AkashCodz/React-Weather-App/assets/101062599/9325a5b5-90c2-4524-a5b4-b893ff8e6c03)
 
 ## Run Locally
 
@@ -86,6 +86,9 @@ Start the server
 - This will create an optimized build of your React application in the build folder.
 
 You can then host the contents of the build folder on your preferred web hosting platform.
+
+## Screenshots
+![Recording 2024-04-23 122544 (1)](https://github.com/AkashCodz/React-Weather-App/assets/101062599/0671421e-a7e1-49f1-8619-3853c3eb175f)
 
 
 ## Further Enhancements
